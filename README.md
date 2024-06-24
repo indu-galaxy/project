@@ -1,1 +1,1 @@
-# project
+This is my simple project
